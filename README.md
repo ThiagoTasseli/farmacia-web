@@ -1,4 +1,9 @@
-# 💊 E-commerce Farmácia
+# 💊 E-commerce Farmácia (Front-end)
+
+![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+⚙️ **API (back-end):** [farmacia-api](https://github.com/ThiagoTasseli/farmacia-api)
 
 🔗 **[Visualize o projeto online](https://farmacia-bloco-3.netlify.app)**
 
@@ -86,7 +91,7 @@ Este repositório contém o projeto final do Bloco 03 do curso de React, cujo de
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seuusuario/projeto_final_bloco_03.git
+git clone https://github.com/ThiagoTasseli/farmacia-web.git
 
 # Acesse o diretório do projeto
 cd projeto_final_bloco_03
@@ -100,7 +105,7 @@ yarn dev
 
 ## 📬 Contato
 
-Desenvolvido por [**Thiago Tasseli**](https://github.com/tasselii)
+Desenvolvido por [**Thiago Tasseli**](https://github.com/ThiagoTasseli)
 
 Fique à vontade para tirar dúvidas, dar sugestões ou contribuir! 😄  
 Entre em contato através do GitHub ou abra uma issue neste repositório.
